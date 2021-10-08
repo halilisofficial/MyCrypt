@@ -1,2 +1,2 @@
 # MyCrypt
-Cryptology of text, console app, get inspired from S-P Network &amp; AES
+Text encryption, console app, get inspired from S-P Network and AES
